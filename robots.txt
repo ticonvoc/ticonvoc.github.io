@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ticonvoc.github.io/sitemap.txt.gz
+Sitemap: https://ticonvoc.github.io/app/sitemap.txt.gz
+Sitemap: https://ticonvoc.github.io/assets/sitemap.txt.gz
+Sitemap: https://ticonvoc.github.io/css/sitemap.txt.gz
+Sitemap: https://ticonvoc.github.io/includes/sitemap.txt.gz
+Sitemap: https://ticonvoc.github.io/item/sitemap.txt.gz
+Sitemap: https://ticonvoc.github.io/src/sitemap.txt.gz
